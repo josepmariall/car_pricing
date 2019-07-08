@@ -12,7 +12,7 @@ The following jupyter notebooks are provided:
 
 [3. Feature Selection, Algorithm improvement, Evidence](https://github.com/titoniubo/car_pricing/blob/master/3.%20Feature%20Selection%2C%20Algorithm%20improvement%2C%20Generalisation%20evidence.ipynb)
 
-
+[4. Data Visualization]()
 
 
 ### Code of ethics
